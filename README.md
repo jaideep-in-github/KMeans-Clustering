@@ -1,7 +1,7 @@
 # 🧠 KMeans Clustering
 
 Hey there! 👋 
-This project is my solution for **Task 8** of my AI & ML Internship, where I embarked on a quest to segment mall customers using K-Means clustering. 🛒 I dove deep into unsupervised learning, explored the dataset, and experimented with various techniques to uncover meaningful customer groups. Here’s the story of my journey, the challenges I faced, and how I built this project from scratch!
+This project is my solution for my AI & ML Internship, where I embarked on a quest to segment mall customers using K-Means clustering. 🛒 I dove deep into unsupervised learning, explored the dataset, and experimented with various techniques to uncover meaningful customer groups. Here’s the story of my journey, the challenges I faced, and how I built this project from scratch!
 
 ---
 
