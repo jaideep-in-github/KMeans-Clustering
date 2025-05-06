@@ -1,0 +1,37 @@
+# .gitignore for KMeans-Clustering project
+
+# Python-specific ignores
+__pycache__/           # Ignore compiled Python bytecode files
+*.pyc                  # Ignore individual .pyc files
+*.pyo                  # Ignore optimized bytecode files
+*.pyd                  # Ignore Python dynamic modules (Windows)
+
+# Virtual environment
+venv/                  # Ignore virtual environment folder (if you named it 'venv')
+env/                   # Ignore another common virtual environment name
+.env                   # Ignore environment variable files
+
+# IDE and editor files
+.vscode/               # Ignore VS Code settings and extensions
+*.code-workspace       # Ignore VS Code workspace files
+.idea/                 # Ignore JetBrains IDE files (if you use PyCharm)
+*.sublime-*            # Ignore Sublime Text files
+
+# System-specific files
+.DS_Store              # Ignore macOS Finder metadata files
+Thumbs.db              # Ignore Windows thumbnail cache files
+
+# Temporary files
+*.log                  # Ignore log files
+*.tmp                  # Ignore temporary files
+*.bak                  # Ignore backup files
+
+# Output files (optional, if you don’t want to track outputs)
+# outputs/             # Uncomment this if you don’t want to track the outputs/ folder
+*.png                  # Ignore PNG files (e.g., plots) unless you want to track them
+*.jpg                  # Ignore JPG files
+*.jpeg                 # Ignore JPEG files
+
+# Miscellaneous
+*.swp                  # Ignore Vim swap files
+*.ipynb_checkpoints/   # Ignore Jupyter Notebook checkpoints (if you use notebooks)
